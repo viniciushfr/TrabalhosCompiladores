@@ -1,0 +1,1 @@
+Escrito em python, usando a IDE eclipse, com o plugin pydev, com o interpretador pypy (roda com qualquer um)
